@@ -1,4 +1,4 @@
-# Ecommerce REST API
+# eCommerce REST API
 
 A RESTful backend API built with Node.js, Express, TypeScript, and MongoDB.
 
